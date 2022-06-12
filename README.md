@@ -32,7 +32,7 @@ pod 'SNSConnectWechatRebuild'
 ## Manually Build
 
 * Download the latest WechatOpenSDK from **[developers.weixin.qq.com](https://developers.weixin.qq.com/doc/oplatform/Downloads/iOS_Resource.html)**
-* unzip and move files to `WechatOpenSDK/Library/`
+* unzip and move files to `Library/`
 * run `create-xcframework.sh`
 
 ## Reference
